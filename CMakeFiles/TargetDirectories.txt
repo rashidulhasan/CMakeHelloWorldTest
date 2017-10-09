@@ -1,0 +1,3 @@
+/home/mm6dev/CMakeHelloWorldTest/CMakeHelloWorldTest/CMakeFiles/edit_cache.dir
+/home/mm6dev/CMakeHelloWorldTest/CMakeHelloWorldTest/CMakeFiles/rebuild_cache.dir
+/home/mm6dev/CMakeHelloWorldTest/CMakeHelloWorldTest/CMakeFiles/hello.dir
